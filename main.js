@@ -28,17 +28,11 @@ const Ray = () => {
       this.length++;
     },
   shift : function(){
-
-      
-    }
-
-
-
-
+    
   }
 
 
-}
+
 
 module.exports = {
   Ray,
